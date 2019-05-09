@@ -2,5 +2,5 @@
 10.0.4.40 ansible_port=22 ansible_user=pi
 
 [pi1]
-10.0.4.67 ansible_port=23 ansible_user=pi
+192.168.1.67 ansible_port=23 ansible_user=pi
 
